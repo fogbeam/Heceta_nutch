@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1562448/nutch/trunk/src/plugin/parse-tika
+END
+build-ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/build-ivy.xml
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1499960/nutch/trunk/src/plugin/parse-tika/ivy.xml
+END
+howto_upgrade_tika.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1499960/nutch/trunk/src/plugin/parse-tika/howto_upgrade_tika.txt
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1499960/nutch/trunk/src/plugin/parse-tika/plugin.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1558420/nutch/trunk/src/plugin/parse-tika/build.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1492856/nutch/trunk/src/plugin/parse-metatags/sample
+END
+testMultivalueMetatags.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1492856/nutch/trunk/src/plugin/parse-metatags/sample/testMultivalueMetatags.html
+END
+testMetatags.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1303371/nutch/trunk/src/plugin/parse-metatags/sample/testMetatags.html
+END

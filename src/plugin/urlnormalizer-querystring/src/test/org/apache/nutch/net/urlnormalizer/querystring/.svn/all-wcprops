@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1498832/nutch/trunk/src/plugin/urlnormalizer-querystring/src/test/org/apache/nutch/net/urlnormalizer/querystring
+END
+TestQuerystringURLNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1498832/nutch/trunk/src/plugin/urlnormalizer-querystring/src/test/org/apache/nutch/net/urlnormalizer/querystring/TestQuerystringURLNormalizer.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr/ivy.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr/plugin.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr/build.xml
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1556474/nutch/trunk/src/java/org/apache/nutch/indexer
+END
+CleaningJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1541917/nutch/trunk/src/java/org/apache/nutch/indexer/CleaningJob.java
+END
+IndexingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingFilter.java
+END
+IndexingFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1529813/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingFilters.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/package.html
+END
+IndexingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1543010/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingJob.java
+END
+NutchDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1556474/nutch/trunk/src/java/org/apache/nutch/indexer/NutchDocument.java
+END
+IndexingFiltersChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1469100/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingFiltersChecker.java
+END
+IndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/java/org/apache/nutch/indexer/IndexWriter.java
+END
+IndexerMapReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1541883/nutch/trunk/src/java/org/apache/nutch/indexer/IndexerMapReduce.java
+END
+IndexingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingException.java
+END
+NutchField.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1556194/nutch/trunk/src/java/org/apache/nutch/indexer/NutchField.java
+END
+IndexWriters.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/java/org/apache/nutch/indexer/IndexWriters.java
+END
+NutchIndexAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1433896/nutch/trunk/src/java/org/apache/nutch/indexer/NutchIndexAction.java
+END
+IndexerOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/java/org/apache/nutch/indexer/IndexerOutputFormat.java
+END

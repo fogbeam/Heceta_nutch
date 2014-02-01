@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1530979/nutch/trunk/src/java/org/apache/nutch/scoring
+END
+ScoringFilterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/scoring/ScoringFilterException.java
+END
+ScoringFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/scoring/ScoringFilter.java
+END
+ScoringFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1529813/nutch/trunk/src/java/org/apache/nutch/scoring/ScoringFilters.java
+END
+AbstractScoringFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1530979/nutch/trunk/src/java/org/apache/nutch/scoring/AbstractScoringFilter.java
+END

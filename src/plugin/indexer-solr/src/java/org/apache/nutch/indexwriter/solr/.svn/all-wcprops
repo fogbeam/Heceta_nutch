@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr
+END
+SolrIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr/SolrIndexWriter.java
+END
+SolrConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr/SolrConstants.java
+END
+SolrMappingReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr/SolrMappingReader.java
+END
+SolrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1453776/nutch/trunk/src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr/SolrUtils.java
+END

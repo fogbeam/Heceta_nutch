@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1498832/nutch/trunk/src/plugin/urlnormalizer-querystring
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1498832/nutch/trunk/src/plugin/urlnormalizer-querystring/ivy.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1498832/nutch/trunk/src/plugin/urlnormalizer-querystring/plugin.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1498832/nutch/trunk/src/plugin/urlnormalizer-querystring/build.xml
+END

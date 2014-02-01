@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1562448/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika
+END
+TestPdfParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestPdfParser.java
+END
+TestMSWordParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestMSWordParser.java
+END
+TestRTFParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1181665/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestRTFParser.java
+END
+TestOOParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestOOParser.java
+END
+TestDOMContentUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1562448/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestDOMContentUtils.java
+END
+TestRobotsMetaProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1435101/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestRobotsMetaProcessor.java
+END
+TestFeedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestFeedParser.java
+END
+TestImageMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1558420/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestImageMetadata.java
+END

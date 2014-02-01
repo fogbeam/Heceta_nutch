@@ -1,0 +1,268 @@
+10
+
+dir
+1563362
+http://svn.apache.org/repos/asf/nutch/trunk/src/plugin
+http://svn.apache.org/repos/asf
+
+
+
+2014-01-29T14:13:42.269522Z
+1562448
+lewismc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+build.xml
+file
+
+
+
+
+2014-02-01T03:28:18.346219Z
+d6cbb11800f63e8a588ceb89f9ac73f3
+2013-07-02T08:37:40.339439Z
+1498832
+markus
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7628
+
+urlnormalizer-querystring
+dir
+
+scoring-link
+dir
+
+urlfilter-prefix
+dir
+
+lib-xml
+dir
+
+scoring-depth
+dir
+
+parse-swf
+dir
+
+urlmeta
+dir
+
+urlfilter-suffix
+dir
+
+parse-zip
+dir
+
+indexer-solr
+dir
+
+urlfilter-automaton
+dir
+
+urlnormalizer-regex
+dir
+
+protocol-file
+dir
+
+indexer-elastic
+dir
+
+urlfilter-regex
+dir
+
+headings
+dir
+
+lib-http
+dir
+
+protocol-ftp
+dir
+
+nutch-extensionpoints
+dir
+
+creativecommons
+dir
+
+parse-tika
+dir
+
+lib-regex-filter
+dir
+
+feed
+dir
+
+language-identifier
+dir
+
+subcollection
+dir
+
+urlfilter-domainblacklist
+dir
+
+index-more
+dir
+
+parse-ext
+dir
+
+plugin.dtd
+file
+
+
+
+
+2014-02-01T03:28:18.347219Z
+d5b029ebb311881ff1efdae267eb5c8d
+2006-11-12T11:37:02.988733Z
+473936
+siren
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6992
+
+urlnormalizer-pass
+dir
+
+parse-html
+dir
+
+protocol-httpclient
+dir
+
+parse-metatags
+dir
+
+urlfilter-domain
+dir
+
+protocol-http
+dir
+
+index-anchor
+dir
+
+urlnormalizer-host
+dir
+
+microformats-reltag
+dir
+
+tld
+dir
+
+urlnormalizer-basic
+dir
+
+parse-js
+dir
+
+index-metadata
+dir
+
+lib-nekohtml
+dir
+
+index-basic
+dir
+
+build-plugin.xml
+file
+
+
+
+
+2014-02-01T03:28:18.344219Z
+7ef2754bc262abcd77a5253b473ba402
+2010-07-07T08:48:17.997554Z
+961306
+jnioche
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9559
+
+urlfilter-validator
+dir
+
+index-static
+dir
+
+scoring-opic
+dir
+
